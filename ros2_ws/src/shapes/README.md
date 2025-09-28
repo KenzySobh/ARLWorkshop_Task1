@@ -1,1 +1,1 @@
-[▶️ Watch demo](./ARLWorkshop_Task1.mp4)
+![Demo](demo.gif)
